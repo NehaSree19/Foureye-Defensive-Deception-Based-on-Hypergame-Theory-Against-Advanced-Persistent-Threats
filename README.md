@@ -35,8 +35,7 @@ Module 3:Back end.
 ![image](https://github.com/NehaSree19/Foureye-Defensive-Deception-Based-on-Hypergame-Theory-Against-Advanced-Persistent-Threats/assets/92450770/b7f74d8d-c7f3-4f17-8ff5-5568dba3081f)  
 ->Stochastic Gradient Descent Classifier:  
 ![image](https://github.com/NehaSree19/Foureye-Defensive-Deception-Based-on-Hypergame-Theory-Against-Advanced-Persistent-Threats/assets/92450770/c68cd3be-2ea5-4abc-b9cc-a067cab18468)  
-The Procedure to execute the project is given below:  
-[PROCESS OF EXECUTING THE MAJOR PROJECT.docx](https://github.com/NehaSree19/Foureye-Defensive-Deception-Based-on-Hypergame-Theory-Against-Advanced-Persistent-Threats/files/13536254/PROCESS.OF.EXECUTING.THE.MAJOR.PROJECT.docx)
+
 
 
 
